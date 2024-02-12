@@ -1,11 +1,11 @@
 {
-  "name": "@sunset-cli/core",
+  "name": "sunset-nestjs",
   "version": "1.0.0",
   "description": "Sunset Nest Core Library",
   "main": "dist/index.js",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/sunset-cli/sunset-nestjs"
+    "url": "git+https://github.com/davidmriverog/sunset-nestjs"
   },
   "keywords": [
     "sunset-cli",
@@ -21,9 +21,9 @@
   "author": "David M Rivero G @davidmriverog",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/sunset-cli/sunset-nestjs/issues"
+    "url": "https://github.com/davidmriverog/sunset-nestjs/issues"
   },
-  "homepage": "https://github.com/sunset-cli/sunset-nestjs#readme",
+  "homepage": "https://github.com/davidmriverog/sunset-nestjs#readme",
   "engines": {
     "node": ">=16.0.0",
     "npm": ">=7.0.0"
